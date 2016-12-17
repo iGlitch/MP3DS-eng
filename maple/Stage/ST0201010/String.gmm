@@ -1,0 +1,403 @@
+<gmml version="4.5">
+<body>
+
+
+	<row id="0000">
+		<comment>BattleMage/NC0003Talk01/01</comment>
+		<language name="Japanese">Huh?!\[NAME:B\]!
+What brings you here?
+How’s it going?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0001">
+		<comment>BattleMage/NC0003Talk01/02</comment>
+		<language name="Japanese">After &lt;Morgan&gt; disappeared, all the &lt;Androids&gt;
+around town were taken care of.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0002">
+		<comment>BattleMage/NC0003Talk02/01</comment>
+		<language name="Japanese">Do you know what everyone called &lt;Morgan&gt;?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0003">
+		<comment>BattleMage/NC0003Talk02/02</comment>
+		<language name="Japanese">His flapping black cape looked like wings
+so they called him &lt;Black Wing&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0004">
+		<comment>BattleMage/NC0003Talk02/03</comment>
+		<language name="Japanese">Recently there's been a rumor that &lt;Morgan&gt;’s
+underlings have formed an organization
+called the &lt;Black Wings&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0005">
+		<comment>BattleMage/NC0206:00/02</comment>
+		<language name="Japanese">Aaah... Freedom. What a nice word. I want
+to fly the sky like the &lt;Crane&gt; in search of
+freedom. But I’m bound to earth... Huh...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0006">
+		<comment>BattleMage/NC0210Talk01/01</comment>
+		<language name="Japanese">Traveling? To visit {Edelstein} at a time
+like this... Well let's just say you've
+picked the wrong time for a visit.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0007">
+		<comment>BattleMage/NC0210Talk01/02</comment>
+		<language name="Japanese">Right now the &lt;Android’s&gt; power is expanding.
+If you aren’t totally prepared, you’ll
+regret it.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0008">
+		<comment>BattleMage/NC0210Talk02/01</comment>
+		<language name="Japanese">{Edelstein} is a fantastic city.
+I carry a lot fine goods.
+Why don’t you take a look.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0009">
+		<comment>BattleMage/NC0210Talk02/02</comment>
+		<language name="Japanese">Buy</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0010">
+		<comment>BattleMage/NC0210Talk02/02</comment>
+		<language name="Japanese">Sell</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0011">
+		<comment>BattleMage/NC0210Talk02/02</comment>
+		<language name="Japanese">Cancel</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0012">
+		<comment>BattleMage/NC0210Talk03/01</comment>
+		<language name="Japanese">Are you done looking?
+If you need anything, please come again.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0013">
+		<comment>BattleMage/NC0211SubQuest01End/01</comment>
+		<language name="Japanese">Thank you.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0014">
+		<comment>BattleMage/NC0211SubQuest01End/02</comment>
+		<language name="Japanese">Thanks to your help, I was able to find
+the &lt;broken pay phone&gt; quickly.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0015">
+		<comment>BattleMage/NC0211SubQuest01End/03</comment>
+		<language name="Japanese">See you later.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0016">
+		<comment>BattleMage/NC0211SubQuest01Ing/01</comment>
+		<language name="Japanese">Find a pay phone in {Edelstein Park} and
+give me a call.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0017">
+		<comment>BattleMage/NC0211SubQuest01Start/01</comment>
+		<language name="Japanese">I’m &lt;Fabio&gt;.
+I’m originally a hair stylist...
+In these dangerous times...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0018">
+		<comment>BattleMage/NC0211SubQuest01Start/02</comment>
+		<language name="Japanese">I’m taking care of the communications
+network.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0019">
+		<comment>BattleMage/NC0211SubQuest01Start/03</comment>
+		<language name="Japanese">If you got some time, how about some
+part-time work?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0020">
+		<comment>BattleMage/NC0211SubQuest01Start/04</comment>
+		<language name="Japanese">Is that right? Want to give it a try?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0021">
+		<comment>BattleMage/NC0211SubQuest01Start/05</comment>
+		<language name="Japanese">Then I’ll give you a job.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0022">
+		<comment>BattleMage/NC0211SubQuest01Start/06</comment>
+		<language name="Japanese">If you go to {Edelstein Park} in the left
+side of town you’ll see a bunch of pay
+phones.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0023">
+		<comment>BattleMage/NC0211SubQuest01Start/07</comment>
+		<language name="Japanese">Once you find a &lt;broken pay phone&gt; I need
+you to request a repair.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0024">
+		<comment>BattleMage/NC0211SubQuest01Start/08</comment>
+		<language name="Japanese">When you find the pay phones, give me a
+call. It’ll be easy to spot a &lt;broken pay&gt;
+&lt;phone&gt; once you call.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0025">
+		<comment>BattleMage/NC0211SubQuest01Start/09</comment>
+		<language name="Japanese">Well then, get going!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0026">
+		<comment>BattleMage/NC0211Talk0101/01</comment>
+		<language name="Japanese">&lt;Androids&gt; are attacking again.
+This town...
+When will peace return?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0027">
+		<comment>BattleMage/NC0211Talk0102/01</comment>
+		<language name="Japanese">Travelers here?
+Why would you travel to such a troubled
+place?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0028">
+		<comment>BattleMage/NC0211Talk0103/01</comment>
+		<language name="Japanese">Come back when peace returns.
+Then I’ll teach you my beauty secrets!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0029">
+		<comment>BattleMage/NC0211Talk0201/01</comment>
+		<language name="Japanese">When you achieve the perfect hairstyle,
+you achieve perfect beauty.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0030">
+		<comment>BattleMage/NC0211Talk0202/01</comment>
+		<language name="Japanese">Look at my hair color.
+It’s not a color that just anyone
+can achieve. Mmm... Isn't it great?
+Come here. I’ll transform you!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0031">
+		<comment>BattleMage/NC0216Talk01/01</comment>
+		<language name="Japanese">There’s this terrible rumor that some
+townspeople are turning to &lt;Morgan&gt;.
+It’s truly terrible...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0032">
+		<comment>BattleMage/NC0216Talk02/01</comment>
+		<language name="Japanese">&lt;Morgan&gt; disappered, but there are still
+those that follow him...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0033">
+		<comment>BattleMage/NC0216Talk02/02</comment>
+		<language name="Japanese">What should we do about this?
+We thought this terrible time was over...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0034">
+		<comment>BattleMage/NC1105Talk0101/01</comment>
+		<language name="Japanese">&lt;Henrite&gt; and &lt;Irekkusu&gt; are buried on the
+mountain behind the city.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0035">
+		<comment>BattleMage/NC1105Talk0101/02</comment>
+		<language name="Japanese">They led a good life so they’re probably
+sleeping peacefully in heaven.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0036">
+		<comment>BattleMage/NC1105Talk0102/01</comment>
+		<language name="Japanese">&lt;Irekkusu&gt; was originally a kindergarten
+teacher. He looked scary, but he loved the
+children more than anyone else...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0037">
+		<comment>BattleMage/NC1105Talk0103/01</comment>
+		<language name="Japanese">&lt;Henrite&gt; was a garbage collector.
+Thanks to him the streets of {Edelstein}
+was always clean.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0038">
+		<comment>BattleMage/NC1105Talk0201/01</comment>
+		<language name="Japanese">Even though &lt;Morgan&gt; is gone, there are still
+people who follow &lt;Morgan&gt; in {Edelstein}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0039">
+		<comment>BattleMage/NC1105Talk0201/02</comment>
+		<language name="Japanese">Instead his influence decreasing, it's
+gradually getting stronger and that's a
+big problem.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0040">
+		<comment>BattleMage/NC1105Talk0202/01</comment>
+		<language name="Japanese">Have you seen my sister &lt;Ulrika&gt;? She was
+playing hide and seek in the outskirts of
+town. If you see her, please let me know.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0041">
+		<comment>BattleMage/NC1107Talk01/01</comment>
+		<language name="Japanese">Mr. &lt;Henrite&gt; and Mr. &lt;Irekkusu&gt; haven’t
+returned yet.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0042">
+		<comment>BattleMage/NC1107Talk0201/01</comment>
+		<language name="Japanese">I just heard &lt;Sigmund&gt; say there are still
+a lot of people in town that follow &lt;Morgan&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0043">
+		<comment>BattleMage/NC1107Talk0201/02</comment>
+		<language name="Japanese">Those people call &lt;Morgan&gt; &lt;Black Wing&gt;.
+They say &lt;Morgan&gt;’s cape flapping looks
+like black wings.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0044">
+		<comment>BattleMage/NC1107Talk0202/01</comment>
+		<language name="Japanese">I fell while playing hide and seek.
+What should I do!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0045">
+		<comment>BattleMage/NC1107Talk0202/02</comment>
+		<language name="Japanese">I’ll get scolded by &lt;Sigmund&gt; for scraping
+my knee again.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0046">
+		<comment>BattleMage/NC1108Talk01/01</comment>
+		<language name="Japanese">They’re creating a secret organization in
+the basement? There’re looking for people
+to fight against &lt;Morgan&gt;. I’ll join too.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0047">
+		<comment>BattleMage/NC1108Talk02/01</comment>
+		<language name="Japanese">I heard a rumor you beat up &lt;Morgan&gt;.
+Must’ve been difficult...
+Super cool!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+</body>
+
+</gmml>

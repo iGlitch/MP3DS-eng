@@ -1,0 +1,385 @@
+<gmml version="4.5">
+<body>
+
+
+	<row id="0000">
+		<comment>BattleMage/b0967/09</comment>
+		<language name="Japanese">Eh!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0001">
+		<comment>BattleMage/b0967/17</comment>
+		<language name="Japanese">Where did these robots come from?
+There are too many...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0002">
+		<comment>BattleMage/b0967/23</comment>
+		<language name="Japanese">We can’t pass...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0003">
+		<comment>BattleMage/b0967/25</comment>
+		<language name="Japanese">Let’s hide for now.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0004">
+		<comment>BattleMage/b0967/45</comment>
+		<language name="Japanese">Is that one standing guard here?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0005">
+		<comment>BattleMage/b0967/47</comment>
+		<language name="Japanese">We have to be careful so we don't get
+caught.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0006">
+		<comment>BattleMage/NC1111SubQuest01End/06</comment>
+		<language name="Japanese">We just have to insert the ore into it's
+heart?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0007">
+		<comment>BattleMage/NC1111SubQuest01End/09</comment>
+		<language name="Japanese">Zztt... Whirl... Whirl...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0008">
+		<comment>BattleMage/NC1111SubQuest01End/11</comment>
+		<language name="Japanese">Did it come back to life?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0009">
+		<comment>BattleMage/NC1111SubQuest01End/13</comment>
+		<language name="Japanese">Energy secured.
+System rebooting.
+Beep... beep... beep...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0010">
+		<comment>BattleMage/NC1111SubQuest01End/15</comment>
+		<language name="Japanese">System rebooting?
+Is it done?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0011">
+		<comment>BattleMage/NC1111SubQuest01End/17</comment>
+		<language name="Japanese">I guess it takes a while to get going.
+I think it’s getting ready to move.
+Ah, that’s good.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0012">
+		<comment>BattleMage/NC1111SubQuest01End/19</comment>
+		<language name="Japanese">You got the \[Moonstone Ring\].</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0013">
+		<comment>BattleMage/NC1111SubQuest01Ing/01</comment>
+		<language name="Japanese">Zztt... zzzttt...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0014">
+		<comment>BattleMage/NC1111SubQuest01Start/05</comment>
+		<language name="Japanese">Zzzttt...
+Dol... cet... to...
+Life support... anomaly detected.
+Source of anomaly... insufficient energy.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0015">
+		<comment>BattleMage/NC1111SubQuest01Start/07</comment>
+		<language name="Japanese">Is your energy depleted &lt;Android&gt;?
+You don’t seem to be moving very well.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0016">
+		<comment>BattleMage/NC1111SubQuest01Start/09</comment>
+		<language name="Japanese">&lt;Androids&gt; are just hunk of metal if it runs
+out of energy.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0017">
+		<comment>BattleMage/NC1111SubQuest01Start/11</comment>
+		<language name="Japanese">I want... to live.
+&lt;Dolcetto&gt;... wants to... live.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0018">
+		<comment>BattleMage/NC1111SubQuest01Start/13</comment>
+		<language name="Japanese">You want to live?
+Are &lt;Androids&gt; also aware of their own
+existence?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0019">
+		<comment>BattleMage/NC1111SubQuest01Start/15</comment>
+		<language name="Japanese">&lt;Dolcetto&gt;... needs... energy.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0020">
+		<comment>BattleMage/NC1111SubQuest01Start/17</comment>
+		<language name="Japanese">Are &lt;Androids&gt; also afraid to die?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0021">
+		<comment>BattleMage/NC1111SubQuest01Start/19</comment>
+		<language name="Japanese">I feel sorry for it.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0022">
+		<comment>BattleMage/NC1111SubQuest01Start/21</comment>
+		<language name="Japanese">Please... help... &lt;Dolcetto&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0023">
+		<comment>BattleMage/NC1111SubQuest01Start/22</comment>
+		<language name="Japanese">......</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0024">
+		<comment>BattleMage/NC1111SubQuest01Start/24</comment>
+		<language name="Japanese">Well, if you think about it, the &lt;Androids&gt;
+are just following &lt;Morgan&gt;’s orders.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0025">
+		<comment>BattleMage/NC1111SubQuest01Start/26</comment>
+		<language name="Japanese">......</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0026">
+		<comment>BattleMage/NC1111SubQuest01Start/28</comment>
+		<language name="Japanese">Should we help?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0027">
+		<comment>BattleMage/NC1111SubQuest01Start/30</comment>
+		<language name="Japanese">Please... help.
+I... want to... live.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0028">
+		<comment>BattleMage/NC1111SubQuest01Start/32</comment>
+		<language name="Japanese">......</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0029">
+		<comment>BattleMage/NC1111SubQuest01Start/34</comment>
+		<language name="Japanese">Should we at least listen to it to see
+how we can help it?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0030">
+		<comment>BattleMage/NC1111SubQuest01Start/38</comment>
+		<language name="Japanese">How can we help?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0031">
+		<comment>BattleMage/NC1111SubQuest01Start/40</comment>
+		<language name="Japanese">Zzzttt... zzzttt....
+Rue... ore... rue... ore...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0032">
+		<comment>BattleMage/NC1111SubQuest01Start/44</comment>
+		<language name="Japanese">\[Rue Ore\] must be it's energy source.
+Where can we find \[Rue Ore\]?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0033">
+		<comment>BattleMage/NC1111SubQuest01Start/46</comment>
+		<language name="Japanese">Zzzttt... zztt...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0034">
+		<comment>BattleMage/NC1111SubQuest01Start/49</comment>
+		<language name="Japanese">Huh?
+It stopped.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0035">
+		<comment>BattleMage/NC1111SubQuest01Start/50</comment>
+		<language name="Japanese">Hmm...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0036">
+		<comment>BattleMage/NC1111SubQuest01Start/51</comment>
+		<language name="Japanese">All we have to do is bring it some \[Rue Ore\]?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0037">
+		<comment>BattleMage/NC1111SubQuest01Start/57</comment>
+		<language name="Japanese">First, let’s look around here.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0038">
+		<comment>BattleMage/NC1111Talk01/01</comment>
+		<language name="Japanese">System reboot completed.
+Starting system check.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0039">
+		<comment>BattleMage/NC1111Talk01/03</comment>
+		<language name="Japanese">Is it going to take long?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0040">
+		<comment>BattleMage/NC1111Talk02/01</comment>
+		<language name="Japanese">System check completed.
+Starting virus scan.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0041">
+		<comment>BattleMage/NC1111Talk02/03</comment>
+		<language name="Japanese">Still? Yeesh...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0042">
+		<comment>BattleMage/NC1111Talk03/01</comment>
+		<language name="Japanese">Virus scan complete.
+Starting update.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0043">
+		<comment>BattleMage/NC1111Talk03/03</comment>
+		<language name="Japanese">Woah! It’s taking so long.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0044">
+		<comment>BattleMage/NC1111Talk04/01</comment>
+		<language name="Japanese">Downloading updates.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0045">
+		<comment>BattleMage/NC1111Talk04/03</comment>
+		<language name="Japanese">......</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0046">
+		<comment>BattleMage/NC1111Talk04/06</comment>
+		<language name="Japanese">Update complete.
+Starting data restoration.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0047">
+		<comment>BattleMage/NC1111Talk04/08</comment>
+		<language name="Japanese">This &lt;Android&gt; must be an old model.
+It’s taking forever to start up.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0048">
+		<comment>BattleMage/NC1111Talk05/01</comment>
+		<language name="Japanese">Restoring data.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0049">
+		<comment>BattleMage/NC1111Talk05/03</comment>
+		<language name="Japanese">Geez~.
+It’s taking too long. I’m going.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+</body>
+
+</gmml>

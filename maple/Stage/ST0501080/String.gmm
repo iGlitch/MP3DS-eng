@@ -1,0 +1,61 @@
+<gmml version="4.5">
+<body>
+
+
+	<row id="0000">
+		<comment>BattleMage/b0527/04</comment>
+		<language name="Japanese">Huh?
+Doesn’t that blue stone look like a pillar?
+What is it...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0001">
+		<comment>BattleMage/b0527/07</comment>
+		<language name="Japanese">It is. It’s a &lt;Blue Training Pillar&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0002">
+		<comment>BattleMage/b0528/06</comment>
+		<language name="Japanese">But...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0003">
+		<comment>BattleMage/b0528/08</comment>
+		<language name="Japanese">How do you train with this?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0004">
+		<comment>BattleMage/b0528/14</comment>
+		<language name="Japanese">How about like this?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0005">
+		<comment>BattleMage/b0530/05</comment>
+		<language name="Japanese">The \[Mysterious Pitcher\] became a
+\[Training Tree\].</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0006">
+		<comment>BattleMage/b0530/08</comment>
+		<language name="Japanese">The pitcher became a tree.
+Would it be ok like this?
+We must return to the society!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+</body>
+
+</gmml>

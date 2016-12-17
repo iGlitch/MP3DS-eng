@@ -1,0 +1,463 @@
+<gmml version="4.5">
+<body>
+
+
+	<row id="0000">
+		<comment>BattleMage/b0975/04</comment>
+		<language name="Japanese">Dad?!
+Mom?!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0001">
+		<comment>BattleMage/b0975/12</comment>
+		<language name="Japanese">D...dad?!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0002">
+		<comment>BattleMage/b0975/21</comment>
+		<language name="Japanese">M...mom?!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0003">
+		<comment>BattleMage/b0975/24</comment>
+		<language name="Japanese">Aaah!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0004">
+		<comment>BattleMage/b0975/41</comment>
+		<language name="Japanese">To be fooled by a hologram...
+Still just a kid.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0005">
+		<comment>BattleMage/b0975/42</comment>
+		<language name="Japanese">Uuuhh...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0006">
+		<comment>BattleMage/b0975/43</comment>
+		<language name="Japanese">You’re &lt;Morgan&gt;!
+Coward!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0007">
+		<comment>BattleMage/b0975/44</comment>
+		<language name="Japanese">Coward?
+Hahaha.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0008">
+		<comment>BattleMage/b0975/45</comment>
+		<language name="Japanese">You locked me up because you’re scared
+of me?!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0009">
+		<comment>BattleMage/b0975/46</comment>
+		<language name="Japanese">Scared? Of you?
+Hahaha.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0010">
+		<comment>BattleMage/b0975/47</comment>
+		<language name="Japanese">You think I’d be scared of someone who
+barely beat the &lt;Android&gt; I made?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0011">
+		<comment>BattleMage/b0975/48</comment>
+		<language name="Japanese">If you’re not afraid of me, release me!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0012">
+		<comment>BattleMage/b0975/49</comment>
+		<language name="Japanese">Aah... in a minute.
+I need to adjust the bond that connects
+you and &lt;Cupid&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0013">
+		<comment>BattleMage/b0975/50</comment>
+		<language name="Japanese">Oh...!
+Stop!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0014">
+		<comment>BattleMage/b0975/51</comment>
+		<language name="Japanese">Help me. \[NAME:B\]!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0015">
+		<comment>BattleMage/b0975/52</comment>
+		<language name="Japanese">You?!
+What are you up to?!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0016">
+		<comment>BattleMage/b0975/53</comment>
+		<language name="Japanese">If you saw the &lt;Battle Mage&gt;’s ancient city,
+you’ll know that ultimate power that comes
+from possessing both &lt;Cupid&gt; and &lt;Valdis&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0017">
+		<comment>BattleMage/b0975/54</comment>
+		<language name="Japanese">And I no longer have to fight &lt;Cupid&gt; every
+1000 years!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0018">
+		<comment>BattleMage/b0975/55</comment>
+		<language name="Japanese">I've researched how to possess both the
+light djinn &lt;Cupid&gt; and the dark djinn
+&lt;Valdis&gt; for a long time.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0019">
+		<comment>BattleMage/b0975/56</comment>
+		<language name="Japanese">I came to the conclusion that if I killed
+all the &lt;Battle Mages&gt; before they got the
+light djinn, it would be possible!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0020">
+		<comment>BattleMage/b0975/57</comment>
+		<language name="Japanese">That way I would have been the only
+&lt;Battle Mage&gt;and gotten &lt;Cupid&gt; as well!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0021">
+		<comment>BattleMage/b0975/58</comment>
+		<language name="Japanese">But!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0022">
+		<comment>BattleMage/b0975/59</comment>
+		<language name="Japanese">Your parents had the audacity to hide you
+in a panda only town called {Mu Lung}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0023">
+		<comment>BattleMage/b0975/60</comment>
+		<language name="Japanese">That’s why you're now the only other
+surviving &lt;Battle Mage&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0024">
+		<comment>BattleMage/b0975/61</comment>
+		<language name="Japanese">I could’ve gotten the light djinn &lt;Cupid&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0025">
+		<comment>BattleMage/b0975/62</comment>
+		<language name="Japanese">That’s why the plan I dreamt of for a 1000
+years failed!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0026">
+		<comment>BattleMage/b0975/63</comment>
+		<language name="Japanese">That’s why you killed my parents?!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0027">
+		<comment>BattleMage/b0975/64</comment>
+		<language name="Japanese">Of course! Your parents were &lt;Battle Mages&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0028">
+		<comment>BattleMage/b0975/65</comment>
+		<language name="Japanese">You evil bastard!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0029">
+		<comment>BattleMage/b0975/66</comment>
+		<language name="Japanese">Murderer!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0030">
+		<comment>BattleMage/b0975/67</comment>
+		<language name="Japanese">Uwaaaaaaa!!! Let me go!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0031">
+		<comment>BattleMage/b0975/68</comment>
+		<language name="Japanese">Be quiet!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0032">
+		<comment>BattleMage/b0975/69</comment>
+		<language name="Japanese">I could kill you right now!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0033">
+		<comment>BattleMage/b0975/70</comment>
+		<language name="Japanese">But then I would have to wait another
+1000 years to get &lt;Cupid&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0034">
+		<comment>BattleMage/b0975/71</comment>
+		<language name="Japanese">That’s the only reason why you’re still
+alive!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0035">
+		<comment>BattleMage/b0975/72</comment>
+		<language name="Japanese">Damn!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0036">
+		<comment>BattleMage/b0975/73</comment>
+		<language name="Japanese">After my first plan failed, I researched
+what allows &lt;Battle Mages&gt; to be able to
+get a djinn.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0037">
+		<comment>BattleMage/b0975/74</comment>
+		<language name="Japanese">Hehehe.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0038">
+		<comment>BattleMage/b0975/75</comment>
+		<language name="Japanese">After much research, I found the special
+bond that connects a &lt;Battle Mage&gt;and a
+djinn.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0039">
+		<comment>BattleMage/b0975/76</comment>
+		<language name="Japanese">I found the secret of the bond and how to
+redirect it from you!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0040">
+		<comment>BattleMage/b0975/77</comment>
+		<language name="Japanese">Huhuhu.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0041">
+		<comment>BattleMage/b0975/78</comment>
+		<language name="Japanese">Now that you’re in my hands, I can separate
+the fully awakened &lt;Cupid&gt; from you.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0042">
+		<comment>BattleMage/b0975/79</comment>
+		<language name="Japanese">If I just connect the bond from you to
+myself after separating it, then &lt;Cupid&gt;
+will be mine!!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0043">
+		<comment>BattleMage/b0975/80</comment>
+		<language name="Japanese">Muwahahaha.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0044">
+		<comment>BattleMage/b0975/83</comment>
+		<language name="Japanese">Now...
+All the preparations are finished.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0045">
+		<comment>BattleMage/b0975/84</comment>
+		<language name="Japanese">Huhuhu. Watch closely now.
+This is the birth of a being with
+absolute power!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0046">
+		<comment>BattleMage/b0975/89</comment>
+		<language name="Japanese">No!! Let me go!!
+Nooo!!!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0047">
+		<comment>BattleMage/b0975/91</comment>
+		<language name="Japanese">Oh... ooh...
+If I don’t do something...
+\[NAME:B\]!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0048">
+		<comment>BattleMage/b0975/92</comment>
+		<language name="Japanese">She’s getting sucked in by &lt;Morgan&gt;!!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0049">
+		<comment>BattleMage/b0975/93</comment>
+		<language name="Japanese">&lt;Cupid&gt;, stop resisting!
+I’m your new owner.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0050">
+		<comment>BattleMage/b0975/94</comment>
+		<language name="Japanese">\[NAME:B\]!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0051">
+		<comment>BattleMage/b0975/102</comment>
+		<language name="Japanese">Are you ok?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0052">
+		<comment>BattleMage/b0975/104</comment>
+		<language name="Japanese">&lt;Duke&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0053">
+		<comment>BattleMage/b0975/108</comment>
+		<language name="Japanese">Y...you!
+You’re the son of the obstinate scientist
+that made the &lt;Mechanic&gt; in {Edelstein}!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0054">
+		<comment>BattleMage/b0975/109</comment>
+		<language name="Japanese">Today is the day you die!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0055">
+		<comment>BattleMage/b0975/110</comment>
+		<language name="Japanese">Pesky fool. I’ll get rid of you now!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0056">
+		<comment>BattleMage/b0980/04</comment>
+		<language name="Japanese">Damn!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0057">
+		<comment>BattleMage/b0980/12</comment>
+		<language name="Japanese">Uwaaa!
+They ran away!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0058">
+		<comment>BattleMage/b0980/13</comment>
+		<language name="Japanese">Where can they escape to from here? Tsk.
+Let’s go and finish this!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+</body>
+
+</gmml>

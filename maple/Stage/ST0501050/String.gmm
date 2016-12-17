@@ -1,0 +1,158 @@
+<gmml version="4.5">
+<body>
+
+
+	<row id="0000">
+		<comment>BattleMage/NC0529SubQuest01End/01</comment>
+		<language name="Japanese">9 \[Wooden Mallets\]!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0001">
+		<comment>BattleMage/NC0529SubQuest01End/02</comment>
+		<language name="Japanese">Good. You got plenty of &lt;Sand Dwarves&gt;.
+Good job.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0002">
+		<comment>BattleMage/NC0529SubQuest01End/03</comment>
+		<language name="Japanese">If you help a lot of people in trouble,
+you'll be rewarded.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0003">
+		<comment>BattleMage/NC0529SubQuest01Ing/01</comment>
+		<language name="Japanese">The &lt;Sand Dwarves&gt; are at {Sahel}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0004">
+		<comment>BattleMage/NC0529SubQuest01Start/01</comment>
+		<language name="Japanese">Have you ever seen the &lt;Sand Dwarves&gt; outside
+of {Magatia}? There weren't many before, but
+they've multiplied and became brutal.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0005">
+		<comment>BattleMage/NC0529SubQuest01Start/02</comment>
+		<language name="Japanese">Recently they broke into {Magatia}'s food
+stores and ate the grains that were stored
+there.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0006">
+		<comment>BattleMage/NC0529SubQuest01Start/03</comment>
+		<language name="Japanese">It's {Alcadno}'s faul they're this way.
+{Alcadno}'s biological experiments have
+affected the ecosystem around here.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0007">
+		<comment>BattleMage/NC0529SubQuest01Start/04</comment>
+		<language name="Japanese">That's why it would be great if you could
+defeat all the &lt;Sand Dwarves&gt; in {Sahel}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0008">
+		<comment>BattleMage/NC0529SubQuest01Start/07</comment>
+		<language name="Japanese">Bring me 9 \[Wooden Mallets\], that you can get
+from &lt;Sand Dwarves&gt;, as proof.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0009">
+		<comment>BattleMage/NC0529Talk0101/01</comment>
+		<language name="Japanese">Bionics. It sounds good, but it's not
+something humans should be experimenting
+with.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0010">
+		<comment>BattleMage/NC0529Talk0102/01</comment>
+		<language name="Japanese">To say that cold, metal machines go together
+with the human body is to lose our humanity.
+But {Alcadno} doesn't understand that.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0011">
+		<comment>BattleMage/NC0529Talk02/01</comment>
+		<language name="Japanese">You must know, but defeating the &lt;Sand Dwarves&gt;
+is just a temporary measure.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0012">
+		<comment>BattleMage/NC0529Talk02/02</comment>
+		<language name="Japanese">If we don't stop {Alcadno}'s experiments,
+the &lt;Sand Dwarves&gt; will just get more brutal.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0013">
+		<comment>BattleMage/NC0529Talk0301/01</comment>
+		<language name="Japanese">Bionics. It sounds good, but it's not
+something humans should be experimenting
+with.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0014">
+		<comment>BattleMage/NC0529Talk0302/01</comment>
+		<language name="Japanese">To say that cold, metal machines go together
+with the human body is to lose our humanity.
+But {Alcadno} doesn't understand that.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0015">
+		<comment>BattleMage/NC0529Talk0303/01</comment>
+		<language name="Japanese">Of course machines & humans are different...
+{Alcadno} is doing weird research!!
+Why are they doing such research?!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0016">
+		<comment>BattleMage/NC0529Talk0304/01</comment>
+		<language name="Japanese">Don't take an interest in me. I just want
+to conduct by research in peace, and to
+be left alone.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0017">
+		<comment>BattleMage/PO01:00/03</comment>
+		<language name="Japanese">Huh? Why doesn't it open?
+I think it's locked...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+</body>
+
+</gmml>

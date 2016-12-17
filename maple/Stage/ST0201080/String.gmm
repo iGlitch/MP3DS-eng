@@ -1,0 +1,283 @@
+<gmml version="4.5">
+<body>
+
+
+	<row id="0000">
+		<comment>BattleMage/b0915/02</comment>
+		<language name="Japanese">Uu...uu...h...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0001">
+		<comment>BattleMage/b0915/03</comment>
+		<language name="Japanese">You’re awake.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0002">
+		<comment>BattleMage/b0915/04</comment>
+		<language name="Japanese">Huh?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0003">
+		<comment>BattleMage/b0915/14</comment>
+		<language name="Japanese">Where am I?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0004">
+		<comment>BattleMage/b0915/16</comment>
+		<language name="Japanese">You’re in {Edelstein}.
+I’m &lt;Sigmund&gt;.
+And you are?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0005">
+		<comment>BattleMage/b0915/18</comment>
+		<language name="Japanese">My name is \[NAME:B\].
+I'm from {Mu Lung}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0006">
+		<comment>BattleMage/b0915/20</comment>
+		<language name="Japanese">You were washed ashore. What happened?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0007">
+		<comment>BattleMage/b0915/22</comment>
+		<language name="Japanese">Beach...
+Washed ashore...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0008">
+		<comment>BattleMage/b0915/27</comment>
+		<language name="Japanese">Yeah... &lt;Chise&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0009">
+		<comment>BattleMage/b0915/36</comment>
+		<language name="Japanese">Where’s &lt;Chise&gt;?!
+&lt;Sigmund&gt;!
+Wasn’t there someone else with me?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0010">
+		<comment>BattleMage/b0915/38</comment>
+		<language name="Japanese">No, you were alone.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0011">
+		<comment>BattleMage/b0915/40</comment>
+		<language name="Japanese">(What happened to &lt;Chise&gt;?)</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0012">
+		<comment>BattleMage/b0915/42</comment>
+		<language name="Japanese">&lt;Sigmund&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0013">
+		<comment>BattleMage/b0915/46</comment>
+		<language name="Japanese">Huh? What is it? &lt;Ulrika&gt;?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0014">
+		<comment>BattleMage/b0915/47</comment>
+		<language name="Japanese">The &lt;Androids&gt; are attacking again!
+They are attacking the wind turbines
+on the outskirts of town right now!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0015">
+		<comment>BattleMage/b0915/48</comment>
+		<language name="Japanese">What?! Wind turbines?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0016">
+		<comment>BattleMage/b0915/49</comment>
+		<language name="Japanese">Yeah. Mr. &lt;Irekkusu&gt; and Mr. &lt;Henrite&gt; went
+to fight the &lt;Androids&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0017">
+		<comment>BattleMage/b0915/50</comment>
+		<language name="Japanese">&lt;Ulrika&gt;. Go tell Mr. &lt;Suaru&gt; to turn on
+the town’s defense systems.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0018">
+		<comment>BattleMage/b0915/51</comment>
+		<language name="Japanese">Ok! I got it.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0019">
+		<comment>BattleMage/b0915/54</comment>
+		<language name="Japanese">Please you need to rest more.
+It’s a little dangerous outside right now,
+please stay inside.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0020">
+		<comment>BattleMage/b0915/57</comment>
+		<language name="Japanese">I’m fine.
+But didn’t you just say the &lt;androids&gt;
+are attacking?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0021">
+		<comment>BattleMage/b0915/60</comment>
+		<language name="Japanese">Yes.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0022">
+		<comment>BattleMage/b0915/63</comment>
+		<language name="Japanese">I studied martial arts in {Mu Lung}.
+I can help you battle the &lt;Androids&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0023">
+		<comment>BattleMage/b0915/66</comment>
+		<language name="Japanese">So... You’re from {Mu Lung}.
+I’m a little worried about your condition...</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0024">
+		<comment>BattleMage/b0915/68</comment>
+		<language name="Japanese">If you’re ok...
+We could use really use your assistance.
+We're in such dire straits, please help us.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0025">
+		<comment>BattleMage/b0915/70</comment>
+		<language name="Japanese">There are 2 wind turbines. Most of the
+electricity used in {Edelstein} is provided
+by those 2 wind turbines.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0026">
+		<comment>BattleMage/b0915/72</comment>
+		<language name="Japanese">If we lose those wind turbines, the defense
+system that protects {Edelstein} from the
+&lt;Androids&gt; will turn off.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0027">
+		<comment>BattleMage/b0915/74</comment>
+		<language name="Japanese">In our current situation, the installation
+is as important as our very lives.
+It must be protected.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0028">
+		<comment>BattleMage/b0915/77</comment>
+		<language name="Japanese">Where are the turbines?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0029">
+		<comment>BattleMage/b0915/80</comment>
+		<language name="Japanese">If you go right from the town, you’ll see
+a {Wind Farm}, the 1st wind turbine is there.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0030">
+		<comment>BattleMage/b0915/82</comment>
+		<language name="Japanese">If you go a little farther, the 2nd turbine
+is by the cable car.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0031">
+		<comment>BattleMage/b0915/84</comment>
+		<language name="Japanese">The spot &lt;Ulrika&gt; mentioned earlier is where
+&lt;Irekkusu&gt; and &lt;Henrite&gt; went on ahead to.
+Please go help them protect the turbines.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0032">
+		<comment>BattleMage/b0915/86</comment>
+		<language name="Japanese">I need to remain here to control the town’s
+defense systems. The &lt;Androids&gt; are strong so
+If you’re in danger, please come back.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0033">
+		<comment>BattleMage/b0915/89</comment>
+		<language name="Japanese">Ok. I’ll be going.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0034">
+		<comment>BattleMage/NC1105:00/02</comment>
+		<language name="Japanese">If you go right from town, you’ll see
+the {Wind Farm}. Please hurry!!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+</body>
+
+</gmml>

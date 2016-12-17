@@ -1,0 +1,159 @@
+<gmml version="4.5">
+<body>
+
+
+	<row id="0000">
+		<comment>BattleMage/b0865/10</comment>
+		<language name="Japanese">Descendant of the &lt;Battle Mage&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0001">
+		<comment>BattleMage/b0865/11</comment>
+		<language name="Japanese">With strength to pierce such strong walls
+and defeat a horde of red spirits, there’s
+no denying your might.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0002">
+		<comment>BattleMage/b0865/12</comment>
+		<language name="Japanese">You passed the trial of strength.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0003">
+		<comment>BattleMage/b0865/13</comment>
+		<language name="Japanese">You’re the possessor of light djinn &lt;Cupid&gt;.
+So I’ll tell you about dark djinn &lt;Valdis&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0004">
+		<comment>BattleMage/b0865/14</comment>
+		<language name="Japanese">This world has existed for a 1000 years
+since the rebirth of the dark djinn &lt;Valdis&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0005">
+		<comment>BattleMage/b0865/15</comment>
+		<language name="Japanese">Currently &lt;Valdis&gt; is on the summit of the
+mountain containing the {Verne Mine} near
+the city of {Edelstein}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0006">
+		<comment>BattleMage/b0865/16</comment>
+		<language name="Japanese">Passing all the trials proves you are a
+true descendant of the &lt;Battle Mage&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0007">
+		<comment>BattleMage/b0865/17</comment>
+		<language name="Japanese">You’ll be able to handle the hardship
+that lies ahead. I’ll open a door leading
+to the 1st floor of the spire.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0008">
+		<comment>BattleMage/b0865/20</comment>
+		<language name="Japanese">&lt;Valdis&gt; is on the summit of the mountain
+containing the {Verne Mine} near the city
+of {Edelstein}?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0009">
+		<comment>BattleMage/b0865/22</comment>
+		<language name="Japanese">Let’s go to {Edelstein}.
+I’ll take care of him!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0010">
+		<comment>BattleMage/b0865/23</comment>
+		<language name="Japanese">But I heard &lt;Valdis&gt; is really strong...
+Will it be ok...?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0011">
+		<comment>BattleMage/b0865/25</comment>
+		<language name="Japanese">It’s fine. I can do it.
+I have the light djinn &lt;Cupid&gt;.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0012">
+		<comment>BattleMage/b0865/27</comment>
+		<language name="Japanese">&lt;Cupid&gt; will help me!
+I’ve proven myself as a real &lt;Battle Mage&gt;!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0013">
+		<comment>BattleMage/b0865/29</comment>
+		<language name="Japanese">&lt;Chise&gt;! We must go to the summit of the
+mountain containing the {Verne Mine} near
+the city of {Edelstein}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0014">
+		<comment>BattleMage/b0865/31</comment>
+		<language name="Japanese">Y...yeah.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0015">
+		<comment>BattleMage/b0865/32</comment>
+		<language name="Japanese">So {Edelstein}...
+I guess we’ll have to ask &lt;Crane&gt; for a ride?</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0016">
+		<comment>BattleMage/b0865/34</comment>
+		<language name="Japanese">Yeah.
+&lt;Crane&gt; will be able to help us get there.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0017">
+		<comment>BattleMage/b0865/36</comment>
+		<language name="Japanese">Then we’ll have to return to {Whale Island}.</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+	<row id="0018">
+		<comment>BattleMage/b0865/38</comment>
+		<language name="Japanese">Ok. Let’s go!</language>
+		<language name="Korean"></language>
+		<language name="English"></language>
+	</row>
+
+</body>
+
+</gmml>
