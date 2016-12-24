@@ -6,7 +6,7 @@
 		<comment>BattleMage/b0527/04</comment>
 		<language name="Japanese">Huh?
 Doesn’t that blue stone look like a pillar?
-What is it...</language>
+What is it…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -20,7 +20,7 @@ What is it...</language>
 
 	<row id="0002">
 		<comment>BattleMage/b0528/06</comment>
-		<language name="Japanese">But...</language>
+		<language name="Japanese">But…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -41,15 +41,15 @@ What is it...</language>
 
 	<row id="0005">
 		<comment>BattleMage/b0530/05</comment>
-		<language name="Japanese">The \[Mysterious Pitcher\] became a
-\[Training Tree\].</language>
+		<language name="Japanese">The \[Mysterious Flask\] became a
+\[Wood\].</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0006">
 		<comment>BattleMage/b0530/08</comment>
-		<language name="Japanese">The pitcher became a tree.
+		<language name="Japanese">The Flask became wood.
 Would it be ok like this?
 We must return to the society!</language>
 		<language name="Korean"></language>

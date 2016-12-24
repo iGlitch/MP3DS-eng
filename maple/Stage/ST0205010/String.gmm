@@ -12,14 +12,14 @@ Mom?!</language>
 
 	<row id="0001">
 		<comment>BattleMage/b0975/12</comment>
-		<language name="Japanese">D...dad?!!</language>
+		<language name="Japanese">D…dad?!!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0002">
 		<comment>BattleMage/b0975/21</comment>
-		<language name="Japanese">M...mom?!</language>
+		<language name="Japanese">M…mom?!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -33,7 +33,7 @@ Mom?!</language>
 
 	<row id="0004">
 		<comment>BattleMage/b0975/41</comment>
-		<language name="Japanese">To be fooled by a hologram...
+		<language name="Japanese">To be fooled by a hologram…
 Still just a kid.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -41,7 +41,7 @@ Still just a kid.</language>
 
 	<row id="0005">
 		<comment>BattleMage/b0975/42</comment>
-		<language name="Japanese">Uuuhh...</language>
+		<language name="Japanese">Uuuhh…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -95,7 +95,7 @@ barely beat the &lt;Android&gt; I made?</language>
 
 	<row id="0012">
 		<comment>BattleMage/b0975/49</comment>
-		<language name="Japanese">Aah... in a minute.
+		<language name="Japanese">Aah… in a minute.
 I need to adjust the bond that connects
 you and &lt;Cupid&gt;.</language>
 		<language name="Korean"></language>
@@ -104,7 +104,7 @@ you and &lt;Cupid&gt;.</language>
 
 	<row id="0013">
 		<comment>BattleMage/b0975/50</comment>
-		<language name="Japanese">Oh...!
+		<language name="Japanese">Oh…!
 Stop!!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -127,7 +127,7 @@ What are you up to?!</language>
 
 	<row id="0016">
 		<comment>BattleMage/b0975/53</comment>
-		<language name="Japanese">If you saw the &lt;Battle Mage&gt;’s ancient city,
+		<language name="Japanese">If you saw the &lt;Battle Mage&gt;’s {Ancient City},
 you’ll know that ultimate power that comes
 from possessing both &lt;Cupid&gt; and &lt;Valdis&gt;.</language>
 		<language name="Korean"></language>
@@ -145,7 +145,7 @@ from possessing both &lt;Cupid&gt; and &lt;Valdis&gt;.</language>
 	<row id="0018">
 		<comment>BattleMage/b0975/55</comment>
 		<language name="Japanese">I've researched how to possess both the
-light djinn &lt;Cupid&gt; and the dark djinn
+Light Djinn &lt;Cupid&gt; and the Dark Djinn
 &lt;Valdis&gt; for a long time.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -155,7 +155,7 @@ light djinn &lt;Cupid&gt; and the dark djinn
 		<comment>BattleMage/b0975/56</comment>
 		<language name="Japanese">I came to the conclusion that if I killed
 all the &lt;Battle Mages&gt; before they got the
-light djinn, it would be possible!</language>
+Light Djinn, it would be possible!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -193,7 +193,7 @@ surviving &lt;Battle Mage&gt;!</language>
 
 	<row id="0024">
 		<comment>BattleMage/b0975/61</comment>
-		<language name="Japanese">I could’ve gotten the light djinn &lt;Cupid&gt;!</language>
+		<language name="Japanese">I could’ve gotten the Light Djinn &lt;Cupid&gt;!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -282,7 +282,7 @@ alive!</language>
 		<comment>BattleMage/b0975/73</comment>
 		<language name="Japanese">After my first plan failed, I researched
 what allows &lt;Battle Mages&gt; to be able to
-get a djinn.</language>
+get a Djinn.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -298,7 +298,7 @@ get a djinn.</language>
 		<comment>BattleMage/b0975/75</comment>
 		<language name="Japanese">After much research, I found the special
 bond that connects a &lt;Battle Mage&gt;and a
-djinn.</language>
+Djinn.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -344,7 +344,7 @@ will be mine!!!</language>
 
 	<row id="0044">
 		<comment>BattleMage/b0975/83</comment>
-		<language name="Japanese">Now...
+		<language name="Japanese">Now…
 All the preparations are finished.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -369,8 +369,8 @@ Nooo!!!!</language>
 
 	<row id="0047">
 		<comment>BattleMage/b0975/91</comment>
-		<language name="Japanese">Oh... ooh...
-If I don’t do something...
+		<language name="Japanese">Oh… ooh…
+If I don’t do something…
 \[NAME:B\]!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -414,7 +414,7 @@ I’m your new owner.</language>
 
 	<row id="0053">
 		<comment>BattleMage/b0975/108</comment>
-		<language name="Japanese">Y...you!
+		<language name="Japanese">Y…you!
 You’re the son of the obstinate scientist
 that made the &lt;Mechanic&gt; in {Edelstein}!</language>
 		<language name="Korean"></language>

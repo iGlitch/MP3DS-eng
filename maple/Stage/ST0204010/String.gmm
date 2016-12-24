@@ -12,14 +12,14 @@
 	<row id="0001">
 		<comment>BattleMage/b0967/17</comment>
 		<language name="Japanese">Where did these robots come from?
-There are too many...</language>
+There are too many…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0002">
 		<comment>BattleMage/b0967/23</comment>
-		<language name="Japanese">We can’t pass...</language>
+		<language name="Japanese">We can’t pass…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -56,7 +56,7 @@ heart?</language>
 
 	<row id="0007">
 		<comment>BattleMage/NC1111SubQuest01End/09</comment>
-		<language name="Japanese">Zztt... Whirl... Whirl...</language>
+		<language name="Japanese">Zztt… Whirl… Whirl…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -72,7 +72,7 @@ heart?</language>
 		<comment>BattleMage/NC1111SubQuest01End/13</comment>
 		<language name="Japanese">Energy secured.
 System rebooting.
-Beep... beep... beep...</language>
+Beep… beep… beep…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -103,17 +103,17 @@ Ah, that’s good.</language>
 
 	<row id="0013">
 		<comment>BattleMage/NC1111SubQuest01Ing/01</comment>
-		<language name="Japanese">Zztt... zzzttt...</language>
+		<language name="Japanese">Zztt… zzzttt…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0014">
 		<comment>BattleMage/NC1111SubQuest01Start/05</comment>
-		<language name="Japanese">Zzzttt...
-Dol... cet... to...
-Life support... anomaly detected.
-Source of anomaly... insufficient energy.</language>
+		<language name="Japanese">Zzzttt…
+Dol… cet… to…
+Life support… anomaly detected.
+Source of anomaly… insufficient energy.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -136,8 +136,8 @@ out of energy.</language>
 
 	<row id="0017">
 		<comment>BattleMage/NC1111SubQuest01Start/11</comment>
-		<language name="Japanese">I want... to live.
-&lt;Dolcetto&gt;... wants to... live.</language>
+		<language name="Japanese">I want… to live.
+&lt;Dolcetto&gt;… wants to… live.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -153,7 +153,7 @@ existence?</language>
 
 	<row id="0019">
 		<comment>BattleMage/NC1111SubQuest01Start/15</comment>
-		<language name="Japanese">&lt;Dolcetto&gt;... needs... energy.</language>
+		<language name="Japanese">&lt;Dolcetto&gt;… needs… energy.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -174,14 +174,14 @@ existence?</language>
 
 	<row id="0022">
 		<comment>BattleMage/NC1111SubQuest01Start/21</comment>
-		<language name="Japanese">Please... help... &lt;Dolcetto&gt;.</language>
+		<language name="Japanese">Please… help… &lt;Dolcetto&gt;.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0023">
 		<comment>BattleMage/NC1111SubQuest01Start/22</comment>
-		<language name="Japanese">......</language>
+		<language name="Japanese">……</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -196,7 +196,7 @@ are just following &lt;Morgan&gt;’s orders.</language>
 
 	<row id="0025">
 		<comment>BattleMage/NC1111SubQuest01Start/26</comment>
-		<language name="Japanese">......</language>
+		<language name="Japanese">……</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -210,15 +210,15 @@ are just following &lt;Morgan&gt;’s orders.</language>
 
 	<row id="0027">
 		<comment>BattleMage/NC1111SubQuest01Start/30</comment>
-		<language name="Japanese">Please... help.
-I... want to... live.</language>
+		<language name="Japanese">Please… help.
+I… want to… live.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0028">
 		<comment>BattleMage/NC1111SubQuest01Start/32</comment>
-		<language name="Japanese">......</language>
+		<language name="Japanese">……</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -240,8 +240,8 @@ how we can help it?</language>
 
 	<row id="0031">
 		<comment>BattleMage/NC1111SubQuest01Start/40</comment>
-		<language name="Japanese">Zzzttt... zzzttt....
-Rue... ore... rue... ore...</language>
+		<language name="Japanese">Zzzttt… zzzttt….
+Rue… ore… rue… ore…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -256,7 +256,7 @@ Where can we find \[Rue Ore\]?</language>
 
 	<row id="0033">
 		<comment>BattleMage/NC1111SubQuest01Start/46</comment>
-		<language name="Japanese">Zzzttt... zztt...</language>
+		<language name="Japanese">Zzzttt… zztt…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -271,7 +271,7 @@ It stopped.</language>
 
 	<row id="0035">
 		<comment>BattleMage/NC1111SubQuest01Start/50</comment>
-		<language name="Japanese">Hmm...</language>
+		<language name="Japanese">Hmm…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -315,7 +315,7 @@ Starting virus scan.</language>
 
 	<row id="0041">
 		<comment>BattleMage/NC1111Talk02/03</comment>
-		<language name="Japanese">Still? Yeesh...</language>
+		<language name="Japanese">Still? Yeesh…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -344,7 +344,7 @@ Starting update.</language>
 
 	<row id="0045">
 		<comment>BattleMage/NC1111Talk04/03</comment>
-		<language name="Japanese">......</language>
+		<language name="Japanese">……</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>

@@ -27,8 +27,8 @@ no denying your might.</language>
 
 	<row id="0003">
 		<comment>BattleMage/b0865/13</comment>
-		<language name="Japanese">You’re the possessor of light djinn &lt;Cupid&gt;.
-So I’ll tell you about dark djinn &lt;Valdis&gt;.</language>
+		<language name="Japanese">You’re the possessor of light Djinn &lt;Cupid&gt;.
+So I’ll tell you about dark Djinn &lt;Valdis&gt;.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -36,7 +36,7 @@ So I’ll tell you about dark djinn &lt;Valdis&gt;.</language>
 	<row id="0004">
 		<comment>BattleMage/b0865/14</comment>
 		<language name="Japanese">This world has existed for a 1000 years
-since the rebirth of the dark djinn &lt;Valdis&gt;.</language>
+since the rebirth of the dark Djinn &lt;Valdis&gt;.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -53,7 +53,7 @@ the city of {Edelstein}.</language>
 	<row id="0006">
 		<comment>BattleMage/b0865/16</comment>
 		<language name="Japanese">Passing all the trials proves you are a
-true descendant of the &lt;Battle Mage&gt;!</language>
+true descendant of the &lt;Battle Mages&gt;!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -86,8 +86,8 @@ I’ll take care of him!</language>
 
 	<row id="0010">
 		<comment>BattleMage/b0865/23</comment>
-		<language name="Japanese">But I heard &lt;Valdis&gt; is really strong...
-Will it be ok...?</language>
+		<language name="Japanese">But I heard &lt;Valdis&gt; is really strong…
+Will it be ok…?</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -95,7 +95,7 @@ Will it be ok...?</language>
 	<row id="0011">
 		<comment>BattleMage/b0865/25</comment>
 		<language name="Japanese">It’s fine. I can do it.
-I have the light djinn &lt;Cupid&gt;.</language>
+I have the light Djinn &lt;Cupid&gt;.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -119,14 +119,14 @@ the city of {Edelstein}.</language>
 
 	<row id="0014">
 		<comment>BattleMage/b0865/31</comment>
-		<language name="Japanese">Y...yeah.</language>
+		<language name="Japanese">Y…yeah.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0015">
 		<comment>BattleMage/b0865/32</comment>
-		<language name="Japanese">So {Edelstein}...
+		<language name="Japanese">So {Edelstein}…
 I guess we’ll have to ask &lt;Crane&gt; for a ride?</language>
 		<language name="Korean"></language>
 		<language name="English"></language>

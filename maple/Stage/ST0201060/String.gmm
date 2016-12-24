@@ -27,7 +27,7 @@ Wake up!</language>
 
 	<row id="0003">
 		<comment>BattleMage/b0925/11</comment>
-		<language name="Japanese">Oh... There’s no answer...
+		<language name="Japanese">Oh… There’s no answer…
 Everyone must be dead.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -88,7 +88,7 @@ turbine.</language>
 
 	<row id="0011">
 		<comment>BattleMage/b0945/17</comment>
-		<language name="Japanese">Y...yeah.
+		<language name="Japanese">Y…yeah.
 That’s a good idea.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -97,7 +97,7 @@ That’s a good idea.</language>
 	<row id="0012">
 		<comment>BattleMage/b0945/18</comment>
 		<language name="Japanese">I can’t really believe what you said
-earlier...</language>
+earlier…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -129,7 +129,7 @@ town without any compensation would lie.</language>
 		<comment>BattleMage/b0945/28</comment>
 		<language name="Japanese">I almost forget. I haven’t had a chance to
 thank you yet. Thank you for saving me when
-I was collapsed in the ocean.</language>
+I was collapsed in the sea.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>

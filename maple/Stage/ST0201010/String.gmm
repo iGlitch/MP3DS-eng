@@ -45,9 +45,9 @@ called the &lt;Black Wings&gt;.</language>
 
 	<row id="0005">
 		<comment>BattleMage/NC0206:00/02</comment>
-		<language name="Japanese">Aaah... Freedom. What a nice word. I want
-to fly the sky like the &lt;Crane&gt; in search of
-freedom. But I’m bound to earth... Huh...</language>
+		<language name="Japanese">Aaah… Freedom. What a nice word. I want
+to fly the sky like &lt;Crane&gt; in search of
+freedom. But I’m bound to earth… Hmph…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -55,7 +55,7 @@ freedom. But I’m bound to earth... Huh...</language>
 	<row id="0006">
 		<comment>BattleMage/NC0210Talk01/01</comment>
 		<language name="Japanese">Traveling? To visit {Edelstein} at a time
-like this... Well let's just say you've
+like this… Well let's just say you've
 picked the wrong time for a visit.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -63,7 +63,7 @@ picked the wrong time for a visit.</language>
 
 	<row id="0007">
 		<comment>BattleMage/NC0210Talk01/02</comment>
-		<language name="Japanese">Right now the &lt;Android’s&gt; power is expanding.
+		<language name="Japanese">Right now the &lt;Android&gt;’s power is expanding.
 If you aren’t totally prepared, you’ll
 regret it.</language>
 		<language name="Korean"></language>
@@ -73,7 +73,7 @@ regret it.</language>
 	<row id="0008">
 		<comment>BattleMage/NC0210Talk02/01</comment>
 		<language name="Japanese">{Edelstein} is a fantastic city.
-I carry a lot fine goods.
+I carry a lot of fine goods.
 Why don’t you take a look.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -81,21 +81,21 @@ Why don’t you take a look.</language>
 
 	<row id="0009">
 		<comment>BattleMage/NC0210Talk02/02</comment>
-		<language name="Japanese">Buy</language>
+		<language name="Japanese">Buy.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0010">
 		<comment>BattleMage/NC0210Talk02/02</comment>
-		<language name="Japanese">Sell</language>
+		<language name="Japanese">Sell.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0011">
 		<comment>BattleMage/NC0210Talk02/02</comment>
-		<language name="Japanese">Cancel</language>
+		<language name="Japanese">Quit.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -118,7 +118,7 @@ If you need anything, please come again.</language>
 	<row id="0014">
 		<comment>BattleMage/NC0211SubQuest01End/02</comment>
 		<language name="Japanese">Thanks to your help, I was able to find
-the &lt;broken pay phone&gt; quickly.</language>
+the &lt;Broken Pay Phone&gt; quickly.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -141,8 +141,8 @@ give me a call.</language>
 	<row id="0017">
 		<comment>BattleMage/NC0211SubQuest01Start/01</comment>
 		<language name="Japanese">I’m &lt;Fabio&gt;.
-I’m originally a hair stylist...
-In these dangerous times...</language>
+I’m originally a hair stylist…
+In these dangerous times…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -188,7 +188,7 @@ phones.</language>
 
 	<row id="0023">
 		<comment>BattleMage/NC0211SubQuest01Start/07</comment>
-		<language name="Japanese">Once you find a &lt;broken pay phone&gt; I need
+		<language name="Japanese">Once you find a &lt;Broken Pay Phone&gt; I need
 you to request a repair.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -197,8 +197,8 @@ you to request a repair.</language>
 	<row id="0024">
 		<comment>BattleMage/NC0211SubQuest01Start/08</comment>
 		<language name="Japanese">When you find the pay phones, give me a
-call. It’ll be easy to spot a &lt;broken pay&gt;
-&lt;phone&gt; once you call.</language>
+call. It’ll be easy to spot a &lt;Broken Pay&gt;
+&lt;Phone&gt; once you call.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -213,7 +213,7 @@ call. It’ll be easy to spot a &lt;broken pay&gt;
 	<row id="0026">
 		<comment>BattleMage/NC0211Talk0101/01</comment>
 		<language name="Japanese">&lt;Androids&gt; are attacking again.
-This town...
+This town…
 When will peace return?</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -248,7 +248,7 @@ you achieve perfect beauty.</language>
 		<comment>BattleMage/NC0211Talk0202/01</comment>
 		<language name="Japanese">Look at my hair color.
 It’s not a color that just anyone
-can achieve. Mmm... Isn't it great?
+can achieve. Mmm… Isn't it great?
 Come here. I’ll transform you!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -258,7 +258,7 @@ Come here. I’ll transform you!</language>
 		<comment>BattleMage/NC0216Talk01/01</comment>
 		<language name="Japanese">There’s this terrible rumor that some
 townspeople are turning to &lt;Morgan&gt;.
-It’s truly terrible...</language>
+It’s truly terrible…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -266,7 +266,7 @@ It’s truly terrible...</language>
 	<row id="0032">
 		<comment>BattleMage/NC0216Talk02/01</comment>
 		<language name="Japanese">&lt;Morgan&gt; disappered, but there are still
-those that follow him...</language>
+those that follow him…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -274,7 +274,7 @@ those that follow him...</language>
 	<row id="0033">
 		<comment>BattleMage/NC0216Talk02/02</comment>
 		<language name="Japanese">What should we do about this?
-We thought this terrible time was over...</language>
+We thought this terrible time was over…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -299,7 +299,7 @@ sleeping peacefully in heaven.</language>
 		<comment>BattleMage/NC1105Talk0102/01</comment>
 		<language name="Japanese">&lt;Irekkusu&gt; was originally a kindergarten
 teacher. He looked scary, but he loved the
-children more than anyone else...</language>
+children more than anyone else…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -392,7 +392,7 @@ to fight against &lt;Morgan&gt;. I’ll join too.</language>
 	<row id="0047">
 		<comment>BattleMage/NC1108Talk02/01</comment>
 		<language name="Japanese">I heard a rumor you beat up &lt;Morgan&gt;.
-Must’ve been difficult...
+Must’ve been difficult…
 Super cool!</language>
 		<language name="Korean"></language>
 		<language name="English"></language>

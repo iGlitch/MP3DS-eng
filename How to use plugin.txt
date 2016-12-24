@@ -1,0 +1,26 @@
+The easiest way to use the patch is to use the NTR plugin Flyingsky has made for use with the the patch and the game. 
+Or you could always check that one iso site, it 'might' be possible to find a .cia/.3ds there.
+
+
+1. You need the NTR Firmware to use the layeredFS plugin.
+
+https://github.com/44670/BootNTR/releases
+https://github.com/astronautlevel2/BootNTR/releases/
+BootNTR for Firmware 11
+
+https://github.com/astronautlevel2/BootNTR?
+
+2. Install it.
+
+(If you can't start NTR using those 2 files make sure you have tick "SysNAND is updated (A9LH-only)" in your A9LH options)?
+
+3. Then copy the plugin folder to the root of your SD card.
+Copy all the changed files into a folder called "maple" on the root of your SD card.
+
+4.Start NTR on your 3DS and start your game (cartridge or cia doesn't matter).
+
+The maple folder uses the same folder structure as the normal romfs uses and as such can also be used inside your own romfs file if you would rather use HANS.
+
+If you'd like to use these in your own game with HANS by dumping your own romsf folder, and then copy and pasting the files from the maple folder into your dumped/extracted romfs folder (replace the original files), and then rebuild your own romfs. Name it 00111600.romfs and put it in the 'hans' folder on the root of your sd card. Then run the game cart or cia through hans in the homebrew launcher.
+
+Here's a good guide of how to extract and rebuild your own romfs: https://gbatemp.net/threads/tutorial-how-to-decrypt-extract-rebuild-3ds-roms.383055/

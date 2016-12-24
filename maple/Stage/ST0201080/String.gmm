@@ -4,7 +4,7 @@
 
 	<row id="0000">
 		<comment>BattleMage/b0915/02</comment>
-		<language name="Japanese">Uu...uu...h...</language>
+		<language name="Japanese">Uu…uu…h…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -56,15 +56,15 @@ I'm from {Mu Lung}.</language>
 
 	<row id="0007">
 		<comment>BattleMage/b0915/22</comment>
-		<language name="Japanese">Beach...
-Washed ashore...</language>
+		<language name="Japanese">Beach…
+Washed ashore…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0008">
 		<comment>BattleMage/b0915/27</comment>
-		<language name="Japanese">Yeah... &lt;Chise&gt;.</language>
+		<language name="Japanese">Yeah… &lt;Chise&gt;.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
@@ -157,7 +157,7 @@ please stay inside.</language>
 	<row id="0020">
 		<comment>BattleMage/b0915/57</comment>
 		<language name="Japanese">I’m fine.
-But didn’t you just say the &lt;androids&gt;
+But didn’t you just say the &lt;Androids&gt;
 are attacking?</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -180,15 +180,15 @@ I can help you battle the &lt;Androids&gt;.</language>
 
 	<row id="0023">
 		<comment>BattleMage/b0915/66</comment>
-		<language name="Japanese">So... You’re from {Mu Lung}.
-I’m a little worried about your condition...</language>
+		<language name="Japanese">So… You’re from {Mu Lung}.
+I’m a little worried about your condition…</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>
 
 	<row id="0024">
 		<comment>BattleMage/b0915/68</comment>
-		<language name="Japanese">If you’re ok...
+		<language name="Japanese">If you’re ok…
 We could use really use your assistance.
 We're in such dire straits, please help us.</language>
 		<language name="Korean"></language>
@@ -248,7 +248,7 @@ is by the cable car.</language>
 	<row id="0031">
 		<comment>BattleMage/b0915/84</comment>
 		<language name="Japanese">The spot &lt;Ulrika&gt; mentioned earlier is where
-&lt;Irekkusu&gt; and &lt;Henrite&gt; went on ahead to.
+&lt;Irekkusu&gt; and &lt;Henrite&gt; went on ahead.
 Please go help them protect the turbines.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
@@ -258,7 +258,7 @@ Please go help them protect the turbines.</language>
 		<comment>BattleMage/b0915/86</comment>
 		<language name="Japanese">I need to remain here to control the town’s
 defense systems. The &lt;Androids&gt; are strong so
-If you’re in danger, please come back.</language>
+if you’re in danger, please come back.</language>
 		<language name="Korean"></language>
 		<language name="English"></language>
 	</row>

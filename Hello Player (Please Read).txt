@@ -1,0 +1,22 @@
+Hello Player!
+
+Thank you for being excited to try our english patch. This is the first release of the 100% done translation,
+and as such it could be considered in beta-testing for now. We've tried our best to make sure all spelling, and
+more importantly, game crashing bugs are fixed. So far we know that all the way up to most of Ch 5 is working without
+any crashes.
+
+IF THE GAME CRASHES: Please take note of the name of the map where you were before it crashed
+	as well as the portal you tried to take that caused the game to crash.
+	~IF you know how to use JKSM to export your save, if you'd like to export a copy of your
+	 save file from right before where it crashed that could be helpful too.
+
+All that having been said, we're hopeful that all bugs have been fixed, and hopefully you won't have any issues.
+
+If you still find a crash let us know here please: https://discord.gg/xkyPhSX
+
+If you find some broken color tags or text that goes of screen feel free to tell us what
+the message said and we'll fix it quickly. Or post a screenshot that'd be even better!
+
+Thanks again guys! We hope you have as much fun playing as we did translating this for you!
+
+-WillTheLion
