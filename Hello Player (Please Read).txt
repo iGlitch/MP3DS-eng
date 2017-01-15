@@ -1,9 +1,7 @@
 Hello Player!
 
-Thank you for being excited to try our english patch. This is the first release of the 100% done translation,
-and as such it could be considered in beta-testing for now. We've tried our best to make sure all spelling, and
-more importantly, game crashing bugs are fixed. So far we know that all the way up to most of Ch 5 is working without
-any crashes.
+This is the v1.02 version of the game. The text has been proof-read and many bugs/crashes have been fixed
+since our initial release. There shouldn't be any more crashes but please if there is a crash let us know!
 
 IF THE GAME CRASHES: Please take note of the name of the map where you were before it crashed
 	as well as the portal you tried to take that caused the game to crash.
